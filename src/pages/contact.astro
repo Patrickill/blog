@@ -1,0 +1,26 @@
+---
+import { Image } from "astro:assets";
+---
+
+<style>
+  .container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+</style>
+<div class="container">
+  <Image
+    width={350}
+    height={350}
+    src="/static/images/qqQr.png"
+    alt="QQ二维码"
+  />
+  <Image
+    width={450}
+    height={350}
+    src="/static/images/wxQr.png"
+    alt="微信二维码"
+  />
+</div>
