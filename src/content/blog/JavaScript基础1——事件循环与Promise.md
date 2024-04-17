@@ -1,7 +1,7 @@
 ---
 title: JavaScript基础#1——事件循环与Promise
 date: 2024-4-17 18:54:35
-tags: ['font']
+tags: ['front']
 summary: 一篇文章带你了解JavaScript的事件机制与Promise
 ---
 
