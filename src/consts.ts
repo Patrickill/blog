@@ -9,7 +9,7 @@ export const SITE_METADATA = {
     description: '一名在校大二软工学生的奇思妙想',
     language: 'zh-CN',
     theme: 'system', // Options: system, light, dark, Does not work yet
-    siteUrl: 'https://astro-starter-blog.yon.fun/',
+    siteUrl: 'https://www.papapatrick.tech/',
     siteRepo: 'https://github.com/Patrickill/my-blog',
     siteLogo: '/static/images/logo.png',
     locale: 'zh-CN',
