@@ -1,14 +1,9 @@
-\---
-
+---
 title: 工程化的实现 openapi 文档生成
-
 date: 2024-05-28 9:17:12
-
 tags: ['front']
-
 summary: 结合 trpc 和 nextjs 的 page route 模式，工程化的实现 openapi 文档生成
-
-\---
+---
 
 ## 技术栈介绍
 
